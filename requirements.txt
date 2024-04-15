@@ -1,0 +1,4 @@
+Pillow==8.2.0    # PIL, required for Image and ImageTk
+requests==2.25.1 # Required for making HTTP requests
+pyttsx3==2.90     # Required for text-to-speech
+SpeechRecognition==3.8.1  # Required for speech recognition
